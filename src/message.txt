@@ -1,0 +1,105 @@
+
+
+Welcome to the game!
+
+
+Press 1 or 2 to jump. You'll need that pretty soon. Try to avoid running into walls - if you do that, you won't get to see the end of this message.
+
+Anyway, welcome to the game - a week or so in the making, believe it or not. It looks kind of crappy, but I never claimed to be an artist. Or a musician, for that matter, but you while you can make a game with no sound, one with no graphics is a lot harder - not least because where are you going to put the text scroller? It would't be homebrew without a bunch of pointless text that doesn't mean much to most people. But I digress. Here's the game intro.
+
+You are Psycho Fox, apparently. You're running and jumping, and for some reason there's a distance meter following you. You have no choice but to run, as the D-pad does nothing in this world, and no choice but to jump because otherwise you'll smash into a wall and that would hurt. Obviously this nightmarish world is the product of some evil deranged mind. Your only hope is that somewhere there will be an end to this. But... is it me, or are you running faster and faster? Yes indeed, you're in a world of FIXED-POINT VELOCITY AND ACCELERATION!
+
+So, will you keep up or will you crash into a random-height wall before you find the end? Is there an end at all? (Hint: it's less code if there isn't.) So is it just a lame high-score deal? What if there's a maximum speed before the game engine breaks? Let's find out...
+
+-------------------------
+
+Anyway, on with the usual text scroller stuff.
+
+Many thanks to xiao, for letting me work on this over the last week. It's been a bit tricky as I've also been having to work a lot of extra hours at the "real" job - the one that pays me money - and as a result, I'm pretty exhausted. But Bockday comes but once a year (are you having ALE OR MEAD to celebrate?), so I tried (and failed) to get this done in time for that. But if I can get it done in time for the end of Bockday weekend, that'll be good. (That's right, I'm actually writing this before I've finished the game.)
+
+So: happy birthday Omar. Another year has passed, and we're still wasting our lives on this Sega 8-bit stuff :) But it remains fun. In fact, it's been a looooong time since the last Bock's Birthday game/demo, because as we move further into Real Life, the less time there is for fun :( but hopefully we can get good stuff done. Well, if Omar gets married it'll be a problem...
+
+Charles was able to come up with one of his technically awesome demos on the day, though, so it wasn't entirely without surprise Sega 8-bit awesomeness. See those awesome fade effects done just with clever palette-twiddling! Look at the amazing pseudo-sprites on the scrolly backdrop that isn't actually scrolling at all! Gaze at the (presumably) sine table driven motion! It makes this (a horizontal scroller with no raster FX) look lame in comparison :( What's more, thanks to my unimaginative naming system, I had a name clash - so I had to make a quick edit to the title screen to make this "Bock's Birthday 2011 II". No matter that it's a completely different game, there's plenty of precedent for that (see Zillion II, or some other game beginning with Z).
+
+So here we are, some way into the game. It's probably getting pretty tricky by now, huh?
+
+Anyway, by the time I wrote this bit of the scroller, I was done. The game finally had an engine (it didn't even have a main sprite this morning). I'd got a lot of what I wanted in there, but it's currently missing the awesome clouds (from Picross) because it's a pain to deal with them in a nice way and I am really tired now.
+
+If anyone's reading this far, I had meant to say something about the SMS Power! website. We are always looking for contributors to help us make it more awesome - there's plenty of tasks that we could share out to people who have the time and inclination to help (and be crazy about the fine details, of course). But I have to release this and sleep!
+
+
+
+
+And now the message ends.
+
+
+
+
+
+
+
+
+
+It's so tempting to add more though!
+
+
+
+
+
+
+
+
+
+
+
+No, I must stop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I could have made it repeat, I suppose. But having an actual ending is probably better.
+
+
+
+
+
+
+
+
+
+
+
+
+The maximum speed is reached at just over 16km, by the way. Can you get that far without succumbing to boredom?
